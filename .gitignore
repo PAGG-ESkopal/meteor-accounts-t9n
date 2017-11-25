@@ -4,3 +4,5 @@ smart.lock
 .meteor
 packages
 .versions
+.git
+.idea
